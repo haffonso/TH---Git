@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Padrão",
-	"Alias":"Descrição",
-	"Expression":"TM1SubsetAll([SYS.M.900.Parametros_Copia_Versao])"
-}

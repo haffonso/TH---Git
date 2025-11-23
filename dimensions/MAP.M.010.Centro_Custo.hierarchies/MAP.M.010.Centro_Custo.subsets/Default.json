@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Default",
-	"Expression":"TM1SubsetAll([MAP.M.010.Centro_Custo])"
-}

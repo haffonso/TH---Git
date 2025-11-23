@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Padrão",
-	"Expression":"TM1SubsetAll([SYS.D.900.Valor])"
-}
